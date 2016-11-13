@@ -1,0 +1,13 @@
+***** CREDITS ***** 
+
+Format should be something like:
+
+ARTIST1:
+thing1artist1made.png
+thing2artist1made.png
+
+ARTIST2:
+thing1artist2made.png
+thing2artist2made.png
+
+**************************************
