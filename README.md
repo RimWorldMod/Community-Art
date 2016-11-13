@@ -1,4 +1,4 @@
-# Community-Modding
+# Community Art and Collaborative Modding
 Many of our Rimworld modding community members have either artistic talent or coding talent, but not both; this repository is intended to help us work together to create a better Rimworld.
 
 This is not a mod! It's a storage solution for "anyone can use this" art, and a hub for artists+modders to collaborate in a way that allows *anyone* to contribute, regardless of which direction their skills lie in, or how much time they have. It will also allow us to search for art, or make art requests, in an interface that makes all of that easy to find again.
